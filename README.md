@@ -1,6 +1,6 @@
 # Fast Drone Delivery System
 
-This project was done in out Discrete Math class.\
+This project was done in out Discrete Math class.
 
 To run the program, you must first enter the name of the text file, which is 'entrepot'. Then, you may use the other features.
 To find the shortest distance, we implemented Dijkstra's algorithm and calculated the shortest paths. 
