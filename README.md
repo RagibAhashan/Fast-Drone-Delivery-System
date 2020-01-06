@@ -1,6 +1,6 @@
 # Fast Drone Delivery System
 
-This project was done in out Discrete Math class.
+This project was done in our Discrete Math class.
 
 How to use the program: 
 
@@ -19,10 +19,10 @@ How to use the program:
     So try it out!
 
 Requirements to run the program:
-
-    Python version 3.7.3
+    
+    Python version 3.7.3 [Recommended]
 
 To run the program on a Terminal:
 
-    Windows:        $ python main.py
+    Windows:        $ python  main.py
     MacOs or Linux: $ python3 main.py
